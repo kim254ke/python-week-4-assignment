@@ -1,0 +1,1 @@
+Hello World!This is my Python file read and write assignment.Hope I pass this test!
